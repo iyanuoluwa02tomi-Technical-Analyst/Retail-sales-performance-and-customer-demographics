@@ -22,3 +22,5 @@ Product & Customer Details: Granular breakdown of sales by product color, profit
 Custom Navigation & Tooltips: Embedded custom report-page hover tooltips providing instant on-demand product breakdowns without cluttering the main canvas.
 
 Synced Slicers: Global Region and Category filters synced seamlessly across all pages.
+
+<img width="1920" height="1080" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/9615ca9b-f4cd-4137-90a1-a4281d9700db" />
