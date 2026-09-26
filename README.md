@@ -23,5 +23,6 @@ Custom Navigation & Tooltips: Embedded custom report-page hover tooltips providi
 
 Synced Slicers: Global Region and Category filters synced seamlessly across all pages.
 
-<img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/c84b89d7-8c78-471a-9971-3213554e0b25" />
+<img width="1482" height="897" alt="image" src="https://github.com/user-attachments/assets/0c2927f6-4f10-40e6-a191-0b7ce53dd9dd" />
+
 
